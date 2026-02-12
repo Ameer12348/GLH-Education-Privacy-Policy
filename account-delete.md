@@ -51,5 +51,5 @@ If you wish to remove specific information, contact **support@glheducation.com**
 If you have questions about data deletion or privacy policies, contact us:
 
 - **Email:** glheducations@gmail.com  
-- **Website:** [https://glheducation.com/privacy](https://glheducation.com)
+- **Website:** [https://glheducation.com](https://glheducation.com)
 
